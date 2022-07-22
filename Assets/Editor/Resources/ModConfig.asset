@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: takingSidesModule
+  title: Taking Sides
+  author: eXish
+  description: 'Repeatedly input the number of sides of a polygon that is rotating
+    in a random direction and speed to keep the timer from running out.
+
+
+    HTML: https://ktane.timwi.de/HTML/Taking%20Sides.html
+
+    PDF: https://ktane.timwi.de/PDF/Taking%20Sides.pdf
+
+
+    Taking Sides (takingSidesModule) v1.0.0
+
+    Module and Concept by eXish
+
+    Twitch Plays supported'
+  version: 1.0.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 54bdfb355e9981547a774d8551a37ad0, type: 3}
